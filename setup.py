@@ -10,7 +10,7 @@ except ImportError: # for pip <= 9.0.3
 
 from setuptools import setup
 
-__version__ = '0.1.8dev'
+__version__ = '0.1.8'
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
